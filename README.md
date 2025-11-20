@@ -1,8 +1,8 @@
 # Hydro_Map
 
-# Hydro Map: Terrestrial Nitrogen Retention Index (NRI & TNRI)
+# Hydrologic Monitoring Map: Terrestrial Nitrogen Retention Index 
 
-This repository provides two Google Earth Engine (GEE) workflows developed during NASA DEVELOP Fall 2025 for evaluating **Terrestrial Nitrogen Retention (NRI)** and a partner-extendable **Terrestrial Nitrogen Retention Index (TNRI)** that incorporates water-quality data + hydrologic flow.
+This repository provides two Google Earth Engine (GEE) workflows developed during NASA DEVELOP Fall 2025 for evaluating **Terrestrial Nitrogen Retention (NRI)** and an interactive, partner accessible **Terrestrial Nitrogen Retention Index (TNRI)** that incorporates water-quality data, hydrographic parameters, and hydrologic connectivity.
 
 The scripts are:
 
