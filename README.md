@@ -4,15 +4,15 @@
 
 This repository provides two Google Earth Engine (GEE) workflows during NASA DEVELOP Fall 2025 for evaluating **Nitrogen Retention Indices (NRI)** across the lakeshore Wisconsin counties study region, and an interactive **Terrestrial Nitrogen Retention Index (TNRI)** output for project partners that incorporates water quality data, hydrographic parameters, and hydrologic connectivity.
 
-The scripts are:
+Reference scripts include:
 
 1. **Hydro_Map_Base.js** — Statewide NRI (no water quality inputs; baseline nitrogen retention index)
 2. **Hydro_Map_PalmerFox.js** — TNRI demonstration for the Palmer–Fox HUC12 using USGS nitrate + nitrite
 
 Project partners (USDA NRCS) can apply this workflow to any HUC12 watershed polygon with the following inputs:
-- water quality data .CSV,  
+- water quality data .csv,  
 - a matching streamflow discharge estimate (USGS)  
-- HUC12 watershed boundary of interest.
+- HUC12 watershed boundary of interest
 
 ---
 
