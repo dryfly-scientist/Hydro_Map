@@ -1,6 +1,6 @@
-# Terrestrial Nitrogen Retention Hydrologic Monitoring Map
+# Hydro_Map
 
-# Hydrologic Model: Terrestrial Nitrogen Retention Index 
+# Terrestrial Nitrogen Retention Hydrologic Monitoring Map
 
 This repository provides two Google Earth Engine (GEE) workflows during NASA DEVELOP Fall 2025 for evaluating **Nitrogen Retention Indices (NRI)** across the lakeshore Wisconsin counties study region, and an interactive **Terrestrial Nitrogen Retention Index (TNRI)** output for project partners that incorporates water quality data, hydrographic parameters, and hydrologic connectivity.
 
