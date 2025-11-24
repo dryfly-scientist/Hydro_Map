@@ -18,7 +18,7 @@ Project partners (USDA NRCS) can apply this workflow to any HUC12 watershed poly
 
 ## Application
 
-The goal of this workflow is to map areas of likely **terrestrial nitrogen retention** by combining vegetation density (NDVI), terrain (DEM + slope), in-situ water quality parameters, river channel proximity to streams, and MERIT Hydro parameters; including flow accumulation, flow direction, and hydrologically adjusted elevation + river channel width.  
+The goal of this workflow is to map areas of likely terrestrial nitrogen retention by combining vegetation density (NDVI), terrain (DEM + slope), in-situ water quality parameters, river channel proximity to streams, and MERIT Hydro parameters; including flow accumulation, flow direction, and hydrologically adjusted elevation + river channel width.  
 
 This allows partners to:
 - identify key riparian corridors for improved soil health, runoff mitigation, stable water quality, and carbon sequstration productivity  
@@ -29,7 +29,7 @@ This allows partners to:
 
 ##  Data Sources 
 
-Partners can locate these in the **Google Earth Engine Data Catalog**.
+Partners can locate these in the Google Earth Engine Data Catalog.
 
 ### **Raster Datasets**
 Format: / Dataset / GEE ID / Purpose /
